@@ -31,7 +31,6 @@
 ## 📊 Projects
 
 ### 📝 Excel Projects
-- [**National Air Quality Dashboard**](#) – Analyzed air quality data with pivot tables and charts  
 - [**US Healthcare Data Analysis**](#) – Built dashboards to track health trends and KPIs  
 - [**India CPI Inflation Analysis (2017–2023)**](https://github.com/Rahul9554/Analysis-of-India-CPI-trends-using-Excel) – Analyzed CPI trends, compared Pre/Post COVID periods, and visualized data with Excel dashboards
     
